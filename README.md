@@ -16,3 +16,12 @@ py manage.py runserver 8000
 ```
 py manage.py startapp {app이름}
 ```
+
+---
+## django gram
+
+장고그램 프로젝트 생성
+```
+pip install cookiecutter
+cookiecutter https://github.com/pydanny/cookiecutter-django
+```
